@@ -1,6 +1,9 @@
 Public Transportation Network System
+
 نظام شبكة النقل العام
+
 Description | الوصف
+
 English:
 This project implements a public transportation network system that supports multiple modes of transportation (Metro, Bus, Train). It allows for route planning, schedule management, and network visualization. The system is designed to help analyze and optimize public transportation routes while considering factors like travel time, transfers, and station capacity.
 
